@@ -1,0 +1,26 @@
+ProductID,ProductDescription,ProductName,ProductPrice,ProductQuantity,ProductSize
+01,Premium NZ Original Biltong,Original Biltong,5.0,36,50g
+02,Premium NZ Original Biltong,Original Biltong,8.0,58,100g
+03,Premium NZ Original Biltong,Original Biltong,15.0,59,200g
+04,Premium NZ Original Biltong,Original Biltong,25.0,35,500g
+05,Premium NZ Original Biltong,Original Biltong,50.0,53,1kg
+06,Premium NZ Chili Biltong,Chili Biltong,5.0,95,50g
+07,Premium NZ Chili Biltong,Chili Biltong,8.0,38,100g
+08,Premium NZ Chili Biltong,Chili Biltong,15.0,65,200g
+09,Premium NZ Chili Biltong,Chili Biltong,25.0,32,500g
+10,Premium NZ Chili Biltong,Chili Biltong,50.0,55,1kg
+11,Premium NZ Garlic Biltong,Garlic Biltong,5.0,24,50g
+12,Premium NZ Garlic Biltong,Garlic Biltong,8.0,44,100g
+13,Premium NZ Garlic Biltong,Garlic Biltong,15.0,42,200g
+14,Premium NZ Garlic Biltong,Garlic Biltong,25.0,40,500g
+15,Premium NZ Garlic Biltong,Garlic Biltong,50.0,63,1kg
+16,Premium NZ Droëwors,Droëwors,5.0,36,50g
+17,Premium NZ Droëwors,Droëwors,8.0,28,100g
+18,Premium NZ Droëwors,Droëwors,15.0,69,200g
+19,Premium NZ Droëwors,Droëwors,25.0,58,500g
+20,Premium NZ Droëwors,Droëwors,50.0,52,1kg
+21,Premium NZ Biltong Sticks,Biltong Sticks,5.0,87,50g
+22,Premium NZ Biltong Sticks,Biltong Sticks,8.0,84,100g
+23,Premium NZ Biltong Sticks,Biltong Sticks,15.0,67,200g
+24,Premium NZ Biltong Sticks,Biltong Sticks,25.0,88,500g
+25,Premium NZ Biltong Sticks,Biltong Sticks,50.0,50,1kg
